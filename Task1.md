@@ -1,5 +1,8 @@
 # Task#A - Fix bugs reported by QA
 
+
+Formula for total_price = price * quantity + tax_rate_percent - discount_percent
+
 # Report from QA engineer
     # Test Case 1 - Failed
         # price = 10

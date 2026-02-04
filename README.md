@@ -2,6 +2,7 @@
 
 This project calculates invoice totals including tax and discount.
 
+Formula for total_price = price * quantity + tax_rate_percent - discount_percent
 
 How to run calculations:
 
