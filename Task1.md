@@ -26,4 +26,5 @@
         # actual result: total_price = -525, Status: STATUS_NEGATIVE_TOTAL
 
 
+
 # Task#B Update result printing: as a user, I want to see the total price and calculation status.
