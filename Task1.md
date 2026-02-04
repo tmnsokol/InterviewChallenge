@@ -10,9 +10,9 @@
         # actual result: total_price = 21 and Status: STATUS_OK
 
     # Test Case 2 - Failed
-        # price = 10
+        # price = 47
         # quantity = 0
-        # tax_rate_percent = 5
+        # tax_rate_percent = 15
         # discount_percent = 20
         # expected result: total_price = None, Status: STATUS_INVALID_INPUT
         # actual result: total_price = None, Status: STATUS_DIVISION_ERROR
